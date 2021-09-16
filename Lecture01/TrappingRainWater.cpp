@@ -19,7 +19,7 @@ class Solution{
         int* RL = right_leaders(arr,n);
         int* LL = left_leaders(arr,n);
 
-	//the local solution a[i] = min(RL[i], LL[i])
+	//the local solution water[i] = min(RL[i], LL[i]) - arr[i]
         for(int i=1; i<n-1; i++){
             result = result + (min(RL[i], LL[i])-arr[i]);
         }
