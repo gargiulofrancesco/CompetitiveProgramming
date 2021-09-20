@@ -1,4 +1,4 @@
-uploaded to:	http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0
+// solution uploaded to:	http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0
 
 
 //Initial template for C++
