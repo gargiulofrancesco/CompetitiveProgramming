@@ -10,7 +10,7 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Problem | Solution |
 | :---: | :---: |
 | Leaders in array | [Link](Lecture01/LeadersInArray.cpp) |
-| Kadane's algorithm | [Link](MaxSumSubarray.cpp) |
+| Kadane's algorithm | [Link](Lecture01/MaxSumSubarray.cpp) |
 | Missing number in array | [Link](Lecture01/MissingNumberInArray.cpp) |
 | Trapping rain water | [Link](Lecture01/TrappingRainWater.cpp) |
 | Sliding window maximum | [Link](Lecture01/SlidingWindowMaximum.cpp) |
