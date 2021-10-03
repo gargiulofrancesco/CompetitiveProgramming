@@ -27,3 +27,19 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | :---: | :---: |
 | Inversion count | [Link](Lecture03/InversionCount.cpp) |
 | The Monkey and the Oiled Bamboo | todo |
+
+**Lecture 04**
+| Problem | Solution |
+| :---: | :---: |
+| Two Types of Spells | todo |
+
+**Lecture 05**
+| Problem | Solution |
+| :---: | :---: |
+| Frogs and Mosquitoes | todo |
+
+**Lecture 06**
+| Problem | Solution |
+| :---: | :---: |
+| Maximum path sum | todo |
+| Longest k-Good Segment | todo |
