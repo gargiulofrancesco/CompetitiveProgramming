@@ -19,7 +19,7 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Problem | Solution |
 | :---: | :---: |
 | Next larger element | [Link](Lecture02/NextLargerElement.cpp) |
-| Towers | todo |
+| Towers | [Link](Lecture02/Towers.cpp) |
 | Finding Team Member | [Link](Lecture02/FindingTeamMember.cpp) |
 
 **Lecture 03**
