@@ -18,7 +18,7 @@ This repository contains my solutions to the exercises of the course "Competitiv
 **Lecture 02**
 | Problem | Solution |
 | :---: | :---: |
-| Next larger element | todo |
+| Next larger element | [Link](Lecture02/NextLargerElement.cpp) |
 | Towers | todo |
 | Finding Team Member | [Link](Lecture02/FindingTeamMember.cpp) |
 
