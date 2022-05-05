@@ -26,7 +26,7 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Problem | Solution |
 | :---: | :---: |
 | Inversion count | [Link](Lecture03/InversionCount.cpp) |
-| The Monkey and the Oiled Bamboo | todo |
+| The Monkey and the Oiled Bamboo | [Link](Lecture03/TheMonkeyAndTheOiledBamboo.cpp) |
 
 **Lecture 04**
 | Problem | Solution |
