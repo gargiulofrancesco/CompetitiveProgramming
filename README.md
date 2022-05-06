@@ -31,7 +31,7 @@ This repository contains my solutions to the exercises of the course "Competitiv
 **Lecture 04**
 | Problem | Solution |
 | :---: | :---: |
-| Two Types of Spells | todo |
+| Two Types of Spells | [Link](Lecture04/TwoTypesOfSpells.cpp) |
 
 **Lecture 05**
 | Problem | Solution |
