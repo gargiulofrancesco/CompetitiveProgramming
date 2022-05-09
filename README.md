@@ -42,4 +42,4 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Problem | Solution |
 | :---: | :---: |
 | Maximum path sum | todo |
-| Longest k-Good Segment | todo |
+| Longest k-Good Segment | [Link](Lecture06/LongestKGoodSegment.cpp) |
