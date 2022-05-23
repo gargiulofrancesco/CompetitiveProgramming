@@ -41,5 +41,5 @@ This repository contains my solutions to the exercises of the course "Competitiv
 **Lecture 06**
 | Problem | Solution |
 | :---: | :---: |
-| Maximum path sum | todo |
+| Maximum path sum | [Link](Lecture06/MaximumPathSum.cpp) |
 | Longest k-Good Segment | [Link](Lecture06/LongestKGoodSegment.cpp) |
