@@ -36,7 +36,7 @@ This repository contains my solutions to the exercises of the course "Competitiv
 **Lecture 05**
 | Problem | Solution |
 | :---: | :---: |
-| Frogs and Mosquitoes | todo |
+| Frogs and Mosquitoes | [Link](Lecture05/FrogsAndMosquitoes.cpp) |
 
 **Lecture 06**
 | Problem | Solution |
