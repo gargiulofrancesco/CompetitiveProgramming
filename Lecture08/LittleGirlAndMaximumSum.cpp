@@ -6,7 +6,7 @@
     Then associate the maximum value of A to the maximum frequency, 
     and so on. The only problem with this is that, for each query
     [l,r], naively increasing by one each F[i], l<=i<=r would take
-    too much time.
+    O(nq) time, which for n=q=2*10^5 is too much.
 
     To create F efficiently, use an array B[n]={0}. For each query
     [l,r] update B[l]+=1 and B[r+1]-=1. Then compute F as the prefix
