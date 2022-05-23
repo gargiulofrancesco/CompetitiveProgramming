@@ -48,6 +48,6 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Problem | Solution |
 | :---: | :---: |
 | Ilya and queries | [Link](Lecture08/IlyaAndQueries.cpp) |
-| Number of ways | todo |
+| Number of ways | [Link](Lecture08/NumberOfWays.cpp) |
 | Little girl and maximum sum | todo |
 
