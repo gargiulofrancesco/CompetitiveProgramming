@@ -9,7 +9,7 @@
   in two non-empty subarrays both summing to totalsum/3.
   Create a binary array B[n] such that B[i]=1 if A[i...n] sums to n/3.
   Create an array C[n] such that C[i] stores the number of ways it is 
-  possible to split A[i,n] in two parts both summing to S/3.
+  possible to split A[i,n] in two parts both summing to totalsum/3.
   Finally, scan A from left to right keeping track of the current prefix
   sum. Whenever A[1,i] sums to totalsum/3, add to the result C[i+1].
 */
