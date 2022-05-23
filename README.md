@@ -20,26 +20,34 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | :---: | :---: |
 | Next larger element | [Link](Lecture02/NextLargerElement.cpp) |
 | Towers | [Link](Lecture02/Towers.cpp) |
-| Finding Team Member | [Link](Lecture02/FindingTeamMember.cpp) |
+| Finding team member | [Link](Lecture02/FindingTeamMember.cpp) |
 
 **Lecture 03**
 | Problem | Solution |
 | :---: | :---: |
 | Inversion count | [Link](Lecture03/InversionCount.cpp) |
-| The Monkey and the Oiled Bamboo | [Link](Lecture03/TheMonkeyAndTheOiledBamboo.cpp) |
+| The monkey and the oiled bamboo | [Link](Lecture03/TheMonkeyAndTheOiledBamboo.cpp) |
 
 **Lecture 04**
 | Problem | Solution |
 | :---: | :---: |
-| Two Types of Spells | [Link](Lecture04/TwoTypesOfSpells.cpp) |
+| Two types of spells | [Link](Lecture04/TwoTypesOfSpells.cpp) |
 
 **Lecture 05**
 | Problem | Solution |
 | :---: | :---: |
-| Frogs and Mosquitoes | [Link](Lecture05/FrogsAndMosquitoes.cpp) |
+| Frogs and mosquitoes | [Link](Lecture05/FrogsAndMosquitoes.cpp) |
 
 **Lecture 06**
 | Problem | Solution |
 | :---: | :---: |
 | Maximum path sum | [Link](Lecture06/MaximumPathSum.cpp) |
-| Longest k-Good Segment | [Link](Lecture06/LongestKGoodSegment.cpp) |
+| Longest k-Good segment | [Link](Lecture06/LongestKGoodSegment.cpp) |
+
+**Lecture 08**
+| Problem | Solution |
+| :---: | :---: |
+| Ilya and queries | [Link](Lecture08/IlyaAndQueries.cpp) |
+| Number of ways | todo |
+| Little girl and maximum sum | todo |
+
