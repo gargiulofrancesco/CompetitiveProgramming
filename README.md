@@ -49,5 +49,5 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | :---: | :---: |
 | Ilya and queries | [Link](Lecture08/IlyaAndQueries.cpp) |
 | Number of ways | [Link](Lecture08/NumberOfWays.cpp) |
-| Little girl and maximum sum | todo |
+| Little girl and maximum sum | [Link](Lecture08/LittleGirlAndMaximumSum.cpp) |
 
