@@ -56,3 +56,10 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | :---: | :---: |
 | Update the array | [Link](Lecture09/UpdateTheArray.cpp) |
 
+**Lecture 10**
+| Problem | Solution |
+| :---: | :---: |
+| Nested Segments | [Link](Lecture10/NestedSegments.cpp) |
+| Pashmak and Parmida's | TODO |
+
+
