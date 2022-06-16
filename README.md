@@ -60,6 +60,4 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Problem | Solution |
 | :---: | :---: |
 | Nested Segments | [Link](Lecture10/NestedSegments.cpp) |
-| Pashmak and Parmida's | TODO |
-
-
+| Pashmak and Parmida's | [Link](Lecture10/PashmakAndParmida.cpp) |
