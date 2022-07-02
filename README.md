@@ -71,3 +71,9 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Problem | Solution |
 | :---: | :---: |
 | Circular RMQ | [Link](Lecture13/CircularRMQ.cpp) |
+
+**Lecture 14**
+| Problem | Solution |
+| :---: | :---: |
+| Triplets | [Link](Lecture14/Triplets.cpp) |
+| Smaller Value | [Link](Lecture14/SmallerValue.cpp) |
