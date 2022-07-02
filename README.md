@@ -61,3 +61,13 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | :---: | :---: |
 | Nested Segments | [Link](Lecture10/NestedSegments.cpp) |
 | Pashmak and Parmida's | [Link](Lecture10/PashmakAndParmida.cpp) |
+
+**Lecture 11**
+| Problem | Solution |
+| :---: | :---: |
+| Nested Segments ST | [Link](Lecture11/NestedSegmentsST.cpp) |
+
+**Lecture 13**
+| Problem | Solution |
+| :---: | :---: |
+| Circular RMQ | [Link](Lecture13/CircularRMQ.cpp) |
