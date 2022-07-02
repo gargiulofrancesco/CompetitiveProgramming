@@ -59,13 +59,13 @@ This repository contains my solutions to the exercises of the course "Competitiv
 **Lecture 10**
 | Problem | Solution |
 | :---: | :---: |
-| Nested Segments | [Link](Lecture10/NestedSegments.cpp) |
+| Nested segments | [Link](Lecture10/NestedSegments.cpp) |
 | Pashmak and Parmida's | [Link](Lecture10/PashmakAndParmida.cpp) |
 
 **Lecture 11**
 | Problem | Solution |
 | :---: | :---: |
-| Nested Segments ST | [Link](Lecture11/NestedSegmentsST.cpp) |
+| Nested segments ST | [Link](Lecture11/NestedSegmentsST.cpp) |
 
 **Lecture 13**
 | Problem | Solution |
@@ -76,4 +76,9 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Problem | Solution |
 | :---: | :---: |
 | Triplets | [Link](Lecture14/Triplets.cpp) |
-| Smaller Value | [Link](Lecture14/SmallerValue.cpp) |
+| Smaller value | [Link](Lecture14/SmallerValue.cpp) |
+
+**Lecture 16**
+| Problem | Solution |
+| :---: | :---: |
+| Powerful array | [Link](Lecture16/PowerfulArray.cpp) |
