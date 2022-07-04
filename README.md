@@ -82,3 +82,4 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Problem | Solution |
 | :---: | :---: |
 | Powerful array | [Link](Lecture16/PowerfulArray.cpp) |
+| Tree and queries | [Link](Lecture16/TreeAndQueries.cpp) |
