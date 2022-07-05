@@ -84,6 +84,21 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Powerful array | [Link](Lecture16/PowerfulArray.cpp) |
 | Tree and queries | [Link](Lecture16/TreeAndQueries.cpp) |
 
+**Lecture 17**
+| Problem | Solution |
+| :---: | :---: |
+| Longest common subsequence | [Link](Lecture17/LongestCommonSubsequence.cpp) |
+
+**Lecture 18**
+| Problem | Solution |
+| :---: | :---: |
+| Longest common subsequence | [Link](Lecture18/MinimumNumberOfJumps.cpp) |
+
+**Lecture 19**
+| Problem | Solution |
+| :---: | :---: |
+| 0/1 knapsack | [Link](Lecture19/01Knapsack.cpp) |
+| Subset sum | [Link](Lecture19/SubsetSum.cpp) |
 
 **Lecture 22**
 | Problem | Solution |
