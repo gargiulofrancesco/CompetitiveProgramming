@@ -83,3 +83,12 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | :---: | :---: |
 | Powerful array | [Link](Lecture16/PowerfulArray.cpp) |
 | Tree and queries | [Link](Lecture16/TreeAndQueries.cpp) |
+
+
+**Lecture 22**
+| Problem | Solution |
+| :---: | :---: |
+| Alternative thinking | [Link](Lecture22/AlternativeThinking.cpp) |
+| Magic numbers | [Link](Lecture22/MagicNumbers.cpp) |
+| Wilbur and array | [Link](Lecture22/WilburAndArray.cpp) |
+| n Meetings in one room | [Link](Lecture22/nMeetingsInOneRoom.cpp) |
