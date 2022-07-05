@@ -110,6 +110,8 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Problem | Solution |
 | :---: | :---: |
 | Edit distance | [Link](Lecture21/EditDistance.cpp) |
+| Vertex cover | [Link](Lecture21/VertexCover.cpp) |
+| Longest palindromic subsequence | [Link](Lecture21/LongestPalindromicSubsequence.cpp) |
 
 **Lecture 22**
 | Problem | Solution |
