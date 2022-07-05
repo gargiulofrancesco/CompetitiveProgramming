@@ -92,7 +92,7 @@ This repository contains my solutions to the exercises of the course "Competitiv
 **Lecture 18**
 | Problem | Solution |
 | :---: | :---: |
-| Longest common subsequence | [Link](Lecture18/MinimumNumberOfJumps.cpp) |
+| Minimum number of jumps | [Link](Lecture18/MinimumNumberOfJumps.cpp) |
 
 **Lecture 19**
 | Problem | Solution |
