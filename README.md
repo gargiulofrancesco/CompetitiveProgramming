@@ -103,8 +103,7 @@ This repository contains my solutions to the exercises of the course "Competitiv
 **Lecture 20**
 | Problem | Solution |
 | :---: | :---: |
-| Longest increasing subsequence | [Link](Lecture20/LongestIncreasingSubsequence.cpp
-) |
+| Longest increasing subsequence | [Link](Lecture20/LongestIncreasingSubsequence.cpp) |
 
 **Lecture 22**
 | Problem | Solution |
