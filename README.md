@@ -106,6 +106,11 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Longest increasing subsequence | [Link](Lecture20/LongestIncreasingSubsequence.cpp) |
 | Longest bitonic subsequence | [Link](Lecture20/LongestBitonicSubsequence.cpp) |
 
+**Lecture 21**
+| Problem | Solution |
+| :---: | :---: |
+| Edit distance | [Link](Lecture21/EditDistance.cpp) |
+
 **Lecture 22**
 | Problem | Solution |
 | :---: | :---: |
