@@ -100,6 +100,12 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | 0/1 knapsack | [Link](Lecture19/01Knapsack.cpp) |
 | Subset sum | [Link](Lecture19/SubsetSum.cpp) |
 
+**Lecture 20**
+| Problem | Solution |
+| :---: | :---: |
+| Longest increasing subsequence | [Link](Lecture20/LongestIncreasingSubsequence.cpp
+) |
+
 **Lecture 22**
 | Problem | Solution |
 | :---: | :---: |
