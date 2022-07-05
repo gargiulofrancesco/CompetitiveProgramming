@@ -104,6 +104,7 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Problem | Solution |
 | :---: | :---: |
 | Longest increasing subsequence | [Link](Lecture20/LongestIncreasingSubsequence.cpp) |
+| Longest bitonic subsequence | [Link](Lecture20/LongestBitonicSubsequence.cpp) |
 
 **Lecture 22**
 | Problem | Solution |
