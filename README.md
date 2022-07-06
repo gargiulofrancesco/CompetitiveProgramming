@@ -125,3 +125,4 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Problem | Solution |
 | :---: | :---: |
 | X total shapes | [Link](Lecture23/XTotalShapes.cpp) |
+| Bipartite graph | [Link](Lecture23/BipartiteGraph.cpp) |
