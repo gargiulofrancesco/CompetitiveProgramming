@@ -120,3 +120,8 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | Magic numbers | [Link](Lecture22/MagicNumbers.cpp) |
 | Wilbur and array | [Link](Lecture22/WilburAndArray.cpp) |
 | n Meetings in one room | [Link](Lecture22/nMeetingsInOneRoom.cpp) |
+
+**Lecture 23**
+| Problem | Solution |
+| :---: | :---: |
+| X total shapes | [Link](Lecture23/XTotalShapes.cpp) |
