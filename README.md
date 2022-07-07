@@ -127,3 +127,9 @@ This repository contains my solutions to the exercises of the course "Competitiv
 | X total shapes | [Link](Lecture23/XTotalShapes.cpp) |
 | Bipartite graph | [Link](Lecture23/BipartiteGraph.cpp) |
 | Fox and names | [Link](Lecture23/FoxAndNames.cpp) |
+
+**Lecture 24**
+| Problem | Solution |
+| :---: | :---: |
+| Learning languages | [Link](Lecture24/LearningLanguages.cpp) |
+| Checkposts | [Link](Lecture24/Checkposts.cpp) |
